@@ -131,3 +131,27 @@ body {
   font-size: 18px;
   max-width: 160px;
 }
+
+.quote-section {
+  background-color: #E5E7EB;
+  display: flex;
+  justify-content: center;
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  color: #1F2937;
+  max-width: 700px;
+}
+
+.quote-attribution {
+  color: #1F2937;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 20px;
+  text-align: right;
+}
