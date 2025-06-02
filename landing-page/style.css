@@ -155,3 +155,33 @@ body {
   font-size: 20px;
   text-align: right;
 }
+
+.banner {
+  background-color: #3882F6;
+  display: flex;
+  justify-content: center;
+  gap: 6rem;
+  padding: 2.5rem;
+  margin-top: 5rem;
+  margin-bottom: 4rem;
+}
+
+.banner-text {
+  color: #F9FAF8;
+}
+
+.banner-text h3 {
+  margin: 0;
+  margin-bottom: .5rem;
+}
+
+.banner-text p {
+  margin: 0;
+}
+
+.action-button {
+  border-style: solid;
+  border-color: #F9FAF8;
+  align-self: center;
+  min-width: 120px;
+}
