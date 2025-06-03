@@ -162,7 +162,7 @@ body {
   justify-content: center;
   gap: 6rem;
   padding: 2.5rem;
-  margin-top: 5rem;
+  margin-top: 4rem;
   margin-bottom: 4rem;
 }
 
@@ -184,4 +184,14 @@ body {
   border-color: #F9FAF8;
   align-self: center;
   min-width: 120px;
+}
+
+.footer {
+  background-color: #1F2937;
+  display: flex;
+  justify-content: center;
+}
+
+.footer p {
+  color: #F9FAF8;
 }
